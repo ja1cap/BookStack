@@ -47,8 +47,8 @@ return [
     /**
      * Header
      */
-    'view_profile' => 'Просмотреть профиль',
-    'edit_profile' => 'Изменить профиль',
+    'view_profile' => 'Просмотреть',
+    'edit_profile' => 'Изменить',
 
     /**
      * Email Content

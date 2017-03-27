@@ -8,16 +8,16 @@ return [
      * including users and roles.
      */
 
-    'settings' => 'Settings',
-    'settings_save' => 'Save Settings',
-    'settings_save_success' => 'Settings saved',
+    'settings' => 'Настройки',
+    'settings_save' => 'Сохранить настройки',
+    'settings_save_success' => 'Настройки сохранены',
 
     /**
      * App settings
      */
 
-    'app_settings' => 'App Settings',
-    'app_name' => 'Application name',
+    'app_settings' => 'Настройки приложения',
+    'app_name' => 'Название приложения',
     'app_name_desc' => 'This name is shown in the header and any emails.',
     'app_name_header' => 'Show Application name in header?',
     'app_public_viewing' => 'Allow public viewing?',
@@ -96,13 +96,13 @@ return [
     'users_delete_warning' => 'This will fully delete this user with the name \':userName\' from the system.',
     'users_delete_confirm' => 'Are you sure you want to delete this user?',
     'users_delete_success' => 'Users successfully removed',
-    'users_edit' => 'Edit User',
-    'users_edit_profile' => 'Edit Profile',
-    'users_edit_success' => 'User successfully updated',
-    'users_avatar' => 'User Avatar',
+    'users_edit' => 'Изменение пользователя',
+    'users_edit_profile' => 'Изменение профиля',
+    'users_edit_success' => 'Пользователь успешно изменен',
+    'users_avatar' => 'Фотография пользователя',
     'users_avatar_desc' => 'This image should be approx 256px square.',
-    'users_preferred_language' => 'Preferred Language',
-    'users_social_accounts' => 'Social Accounts',
+    'users_preferred_language' => 'Предпочтительный язык',
+    'users_social_accounts' => 'Социальные сети',
     'users_social_accounts_info' => 'Here you can connect your other accounts for quicker and easier login. Disconnecting an account here does not previously authorized access. Revoke access from your profile settings on the connected social account.',
     'users_social_connect' => 'Connect Account',
     'users_social_disconnect' => 'Disconnect Account',

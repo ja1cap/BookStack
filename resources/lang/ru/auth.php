@@ -16,22 +16,22 @@ return [
     /**
      * Login & Register
      */
-    'sign_up' => 'Sign up',
-    'log_in' => 'Log in',
-    'log_in_with' => 'Login with :socialDriver',
-    'sign_up_with' => 'Sign up with :socialDriver',
-    'logout' => 'Logout',
+    'sign_up' => 'Регистрация',
+    'log_in' => 'Вход',
+    'log_in_with' => 'Войти через :socialDriver',
+    'sign_up_with' => 'Зарегистрироваться через :socialDriver',
+    'logout' => 'Выйтч',
 
-    'name' => 'Name',
+    'name' => 'Имя',
     'username' => 'Username',
     'email' => 'Email',
-    'password' => 'Password',
-    'password_confirm' => 'Confirm Password',
+    'password' => 'Пароль',
+    'password_confirm' => 'Подтверждение пароля',
     'password_hint' => 'Must be over 5 characters',
     'forgot_password' => 'Forgot Password?',
-    'remember_me' => 'Remember Me',
+    'remember_me' => 'Запомнить меня',
     'ldap_email_hint' => 'Please enter an email to use for this account.',
-    'create_account' => 'Create Account',
+    'create_account' => 'Создать аккаунт',
     'social_login' => 'Social Login',
     'social_registration' => 'Social Registration',
     'social_registration_text' => 'Register and sign in using another service.',
@@ -46,7 +46,7 @@ return [
     /**
      * Password Reset
      */
-    'reset_password' => 'Reset Password',
+    'reset_password' => 'Сбросить пароль',
     'reset_password_send_instructions' => 'Enter your email below and you will be sent an email with a password reset link.',
     'reset_password_send_button' => 'Send Reset Link',
     'reset_password_sent_success' => 'A password reset link has been sent to :email.',
