@@ -49,7 +49,7 @@ return [
      * Role settings
      */
 
-    'roles' => 'Roles',
+    'roles' => 'Роли',
     'role_user_roles' => 'User Roles',
     'role_create' => 'Create New Role',
     'role_create_success' => 'Role successfully created',
@@ -83,7 +83,7 @@ return [
      * Users
      */
 
-    'users' => 'Users',
+    'users' => 'Пользователи',
     'user_profile' => 'User Profile',
     'users_add_new' => 'Add New User',
     'users_search' => 'Search Users',
