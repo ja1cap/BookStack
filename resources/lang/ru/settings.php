@@ -115,6 +115,7 @@ return [
     ///////////////////////////////////
     'language_select' => [
         'en' => 'English',
+        'ru' => 'Русский',
         'de' => 'Deutsch',
         'es' => 'Español',
         'fr' => 'Français',
