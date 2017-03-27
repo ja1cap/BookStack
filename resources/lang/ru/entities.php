@@ -168,7 +168,7 @@ return [
     'pages_copy_link' => 'Copy Link',
     'pages_permissions_active' => 'Page Permissions Active',
     'pages_initial_revision' => 'Initial publish',
-    'pages_initial_name' => 'New Page',
+    'pages_initial_name' => 'Новая страница',
     'pages_editing_draft_notification' => 'You are currently editing a draft that was last saved :timeDiff.',
     'pages_draft_edited_notification' => 'This page has been updated by since that time. It is recommended that you discard this draft.',
     'pages_draft_edit_active' => [
