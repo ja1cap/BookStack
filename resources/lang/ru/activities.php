@@ -28,13 +28,13 @@ return [
     'chapter_move'                => 'moved chapter',
 
     // Books
-    'book_create'                 => 'created book',
+    'book_create'                 => 'создал книгу',
     'book_create_notification'    => 'Book Successfully Created',
-    'book_update'                 => 'updated book',
+    'book_update'                 => 'обновил книгу',
     'book_update_notification'    => 'Book Successfully Updated',
-    'book_delete'                 => 'deleted book',
+    'book_delete'                 => 'удалил книгу',
     'book_delete_notification'    => 'Book Successfully Deleted',
-    'book_sort'                   => 'sorted book',
+    'book_sort'                   => 'отсортировал книгу',
     'book_sort_notification'      => 'Book Successfully Re-sorted',
 
 ];
